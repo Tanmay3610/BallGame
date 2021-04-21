@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\agarw\source\repos\BallGame\BallGame\Source.cpp(116,6): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\agarw\source\repos\BallGame\BallGame\Source.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\agarw\source\repos\BallGame\BallGame\Source.cpp(175,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BallGame.vcxproj -> C:\Users\agarw\source\repos\BallGame\Debug\BallGame.exe
